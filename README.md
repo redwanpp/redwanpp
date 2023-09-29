@@ -5,7 +5,7 @@
 #### I'm a student of Software Engineering at Daffodil International University.
 I made project for learning purpose
 
-Skills: C/ C++ / JAVA / Spring Boot / PYTHON / / HTML / CSS
+Skills: C / C++ / JAVA / Spring Boot / PYTHON / / HTML / CSS
 
 - 🌱 I’m currently learning Cyber Security and Java 
 
@@ -19,9 +19,6 @@ Skills: C/ C++ / JAVA / Spring Boot / PYTHON / / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redwanpp)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=redwanpp&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanpp)  
-
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=redwanpp)  
 
-![Profile views](https://gpvc.arturio.dev/redwanpp)  
