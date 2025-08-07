@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. M. Redwan</h1>
-<h3 align="center">A student who want to learner life time... ... ...</h3>
+<h3 align="center">A student, who wants to be a lifelong learner ... ... ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwanpp&label=Profile%20views&color=0e75b6&style=flat" alt="redwanpp" /> </p>
 
